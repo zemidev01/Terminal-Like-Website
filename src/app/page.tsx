@@ -71,7 +71,7 @@ export default function TerminalHostingDashboard() {
       <div className="min-h-screen bg-black flex items-center justify-center">
         <div className="text-center">
           <div className="text-4xl font-bold text-neutral-300 mb-8 animate-pulse" style={{ fontFamily: '"Geist Mono", "Geist Mono Fallback", monospace' }}>
-            ench
+            zemidev01
           </div>
           <div className="loading-bar">
             <div className="loading-bar-fill"></div>
@@ -123,7 +123,7 @@ export default function TerminalHostingDashboard() {
           <div className="p-6 space-y-6">
             {/* Terminal Prompt */}
             <div className="flex flex-wrap items-center gap-1 text-xl md:text-2xl font-bold">
-              <span className="text-neutral-300">root@ench</span>
+              <span className="text-neutral-300">root@zemidev01</span>
               <span className="text-neutral-500">:~$</span>
               <span className="animate-cursor">█</span>
             </div>
@@ -132,7 +132,7 @@ export default function TerminalHostingDashboard() {
             <div className="space-y-1 terminal-container">
               <div className="terminal-line">
                 <span className="text-neutral-500">[system]</span>
-                <span className="terminal-text"> Initializing ench hosting platform...</span>
+                <span className="terminal-text"> Initializing zemidev01 terminal website...</span>
               </div>
               <div className="terminal-line">
                 <span className="text-neutral-500">[status]</span>
