@@ -13,3 +13,7 @@ How to use ?
 
 Credits: zemidev01 
 Made this shit at 4 AM, if you found any bugs or problems feel free to create an issue.
+
+# It's back after a false DMCA claim, I'm glad to have my work again on github available for everyone.
+# I changed every refference to that guy, it was not intentional but he was too mad for that i swear.
+See Release 0.2
